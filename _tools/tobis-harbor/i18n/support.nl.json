@@ -1,0 +1,22 @@
+{
+ "langName": "Nederlands",
+ "by": "door HeyOggi Games",
+ "language": "Taal",
+ "navSupport": "Support",
+ "navPrivacy": "Privacybeleid",
+ "titleSupport": "Tobi's Harbor – Support",
+ "titlePrivacy": "Tobi's Harbor – Privacybeleid",
+ "metaDescription": "Tobi's Harbor door HeyOggi Games: support en privacybeleid.",
+ "translationNote": "Dit is een vertaling. Als deze afwijkt van de Engelse versie, geldt de Engelse versie.",
+ "intro": "Help Tobi een slaperige haven aan zee weer tot leven te brengen door vracht te sorteren, schappen leeg te maken en de kades te herstellen. Een gezellige puzzelgame die je in een paar minuten per dag speelt, ook offline.",
+ "supportH": "Support",
+ "supportP": "Vragen, bugmeldingen of ideeën? Mail ons op {email}. Vermeld je apparaatmodel en de versie van de game ({settings} → onderaan het scherm). We antwoorden meestal binnen 2 werkdagen.",
+ "faqH": "Veelgestelde vragen",
+ "q1": "Waar wordt mijn voortgang opgeslagen?",
+ "a1": "Alleen op je apparaat. De game heeft geen account en geen cloudopslag, dus als je de game verwijdert, ben je je voortgang kwijt (op Android kan een kopie terugkomen uit je Google-systeemback-up als die aanstaat).",
+ "q2": "Hoe begin ik opnieuw met de game?",
+ "a2": "{settings} → {resetProgress}. De game vraagt je eerst om te bevestigen. Je instellingen voor geluid, taal en het delen van gegevens blijven behouden.",
+ "q3": "Hoe stop ik met het delen van spelstatistieken of hoe verwijder ik ze?",
+ "a3": "{settings} → zet {dataSharing} uit; vanaf dat moment worden er geen statistieken meer verstuurd. {settings} → {deleteData} vraagt Unity Analytics om de anonieme statistieken die aan je game zijn gekoppeld te verwijderen; dit is meestal binnen 30 dagen afgerond. Zie {privacyLink} voor meer informatie.",
+ "mailSubjectSupport": "Support Tobi's Harbor"
+}

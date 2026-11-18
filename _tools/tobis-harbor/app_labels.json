@@ -1,0 +1,72 @@
+{
+ "tr": {
+  "settings": "Ayarlar",
+  "resetProgress": "İlerlemeyi sıfırla",
+  "dataSharing": "Veri paylaşımı",
+  "deleteData": "Verilerimi sil",
+  "privacy": "Gizlilik"
+ },
+ "en": {
+  "settings": "Settings",
+  "resetProgress": "Reset progress",
+  "dataSharing": "Data sharing",
+  "deleteData": "Delete my data",
+  "privacy": "Privacy"
+ },
+ "de": {
+  "settings": "Einstellungen",
+  "resetProgress": "Fortschritt zurücksetzen",
+  "dataSharing": "Datenfreigabe",
+  "deleteData": "Meine Daten löschen",
+  "privacy": "Datenschutz"
+ },
+ "fr": {
+  "settings": "Réglages",
+  "resetProgress": "Réinitialiser la progression",
+  "dataSharing": "Partage de données",
+  "deleteData": "Supprimer mes données",
+  "privacy": "Confidentialité"
+ },
+ "es": {
+  "settings": "Ajustes",
+  "resetProgress": "Reiniciar progreso",
+  "dataSharing": "Compartir datos",
+  "deleteData": "Borrar mis datos",
+  "privacy": "Privacidad"
+ },
+ "pt-BR": {
+  "settings": "Ajustes",
+  "resetProgress": "Reiniciar progresso",
+  "dataSharing": "Compartilhar dados",
+  "deleteData": "Apagar meus dados",
+  "privacy": "Privacidade"
+ },
+ "it": {
+  "settings": "Impostazioni",
+  "resetProgress": "Azzera i progressi",
+  "dataSharing": "Condivisione dati",
+  "deleteData": "Elimina i miei dati",
+  "privacy": "Privacy"
+ },
+ "nl": {
+  "settings": "Instellingen",
+  "resetProgress": "Voortgang resetten",
+  "dataSharing": "Gegevens delen",
+  "deleteData": "Wis mijn gegevens",
+  "privacy": "Privacy"
+ },
+ "pl": {
+  "settings": "Ustawienia",
+  "resetProgress": "Resetuj postępy",
+  "dataSharing": "Udostępnianie danych",
+  "deleteData": "Usuń moje dane",
+  "privacy": "Prywatność"
+ },
+ "id": {
+  "settings": "Pengaturan",
+  "resetProgress": "Atur ulang progres",
+  "dataSharing": "Berbagi data",
+  "deleteData": "Hapus dataku",
+  "privacy": "Privasi"
+ }
+}

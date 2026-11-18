@@ -1,0 +1,22 @@
+{
+ "langName": "Bahasa Indonesia",
+ "by": "oleh HeyOggi Games",
+ "language": "Bahasa",
+ "navSupport": "Dukungan",
+ "navPrivacy": "Kebijakan Privasi",
+ "titleSupport": "Tobi's Harbor – Dukungan",
+ "titlePrivacy": "Tobi's Harbor – Kebijakan Privasi",
+ "metaDescription": "Tobi's Harbor oleh HeyOggi Games: dukungan dan kebijakan privasi.",
+ "translationNote": "Ini adalah terjemahan. Jika ada perbedaan dengan versi bahasa Inggris, yang berlaku adalah versi bahasa Inggris.",
+ "intro": "Bantu Tobi menghidupkan kembali pelabuhan tepi laut yang sedang terlelap dengan menyortir kargo, mengosongkan rak, dan memperbaiki dermaga. Game puzzle santai yang bisa kamu mainkan beberapa menit sehari, bahkan secara offline.",
+ "supportH": "Dukungan",
+ "supportP": "Punya pertanyaan, laporan bug, atau ide? Kirim e-mail ke {email}. Sertakan model perangkat dan versi game kamu ({settings} → bagian bawah layar). Kami biasanya membalas dalam 2 hari kerja.",
+ "faqH": "Pertanyaan umum",
+ "q1": "Di mana progresku disimpan?",
+ "a1": "Hanya di perangkatmu. Game ini tidak memiliki akun maupun simpanan cloud, jadi menghapus instalasi game akan menghapus progresmu (di Android, salinannya mungkin kembali dari cadangan sistem Google jika fitur itu aktif).",
+ "q2": "Bagaimana cara memulai game dari awal?",
+ "a2": "{settings} → {resetProgress}. Game akan meminta konfirmasimu terlebih dahulu. Pengaturan suara, bahasa, dan berbagi data kamu tetap disimpan.",
+ "q3": "Bagaimana cara berhenti membagikan statistik permainan atau menghapusnya?",
+ "a3": "{settings} → matikan {dataSharing}; sejak saat itu tidak ada statistik yang dikirim. {settings} → {deleteData} akan meminta Unity Analytics menghapus statistik anonim yang terkait dengan game-mu; biasanya proses ini selesai dalam 30 hari. Lihat {privacyLink} untuk detailnya.",
+ "mailSubjectSupport": "Dukungan Tobi's Harbor"
+}

@@ -1,0 +1,22 @@
+{
+ "langName": "Türkçe",
+ "by": "HeyOggi Games",
+ "language": "Dil",
+ "navSupport": "Destek",
+ "navPrivacy": "Gizlilik Politikası",
+ "titleSupport": "Tobi's Harbor – Destek",
+ "titlePrivacy": "Tobi's Harbor – Gizlilik Politikası",
+ "metaDescription": "HeyOggi Games'in oyunu Tobi's Harbor: destek ve gizlilik politikası.",
+ "translationNote": "Bu bir çeviridir. İngilizce sürümle fark varsa İngilizce sürüm geçerlidir.",
+ "intro": "Kargoları sıralayarak, rafları boşaltarak ve iskeleleri onararak Tobi'nin uykulu sahil limanını yeniden canlandırmasına yardım et. Günde birkaç dakikada oynanan, çevrimdışı da çalışan sıcak bir bulmaca oyunu.",
+ "supportH": "Destek",
+ "supportP": "Soruların, hata bildirimlerin ya da fikirlerin mi var? {email} adresine yaz. Cihaz modelini ve oyun sürümünü ({settings} ekranının en altında) eklersen daha hızlı yardımcı oluruz. Genelde 2 iş günü içinde yanıt veriyoruz.",
+ "faqH": "Sık sorulan sorular",
+ "q1": "İlerlemem nerede saklanıyor?",
+ "a1": "Yalnızca cihazında. Oyunda hesap ya da bulut kaydı yok; oyunu silersen ilerlemen de silinir (Android'de Google sistem yedeklemesi açıksa bir kopyası geri gelebilir).",
+ "q2": "Oyuna nasıl baştan başlarım?",
+ "a2": "{settings} → {resetProgress}. Oyun önce onay ister. Ses, dil ve veri paylaşımı ayarların korunur.",
+ "q3": "Oyun istatistiklerini paylaşmayı nasıl durdururum ya da silerim?",
+ "a3": "{settings} → {dataSharing} seçeneğini kapat; o andan sonra hiçbir istatistik gönderilmez. {settings} → {deleteData}, Unity Analytics'ten oyununla ilişkili anonim istatistikleri silmesini ister; bu genelde 30 gün içinde tamamlanır. Ayrıntılar için {privacyLink} sayfasına bak.",
+ "mailSubjectSupport": "Tobi's Harbor destek"
+}

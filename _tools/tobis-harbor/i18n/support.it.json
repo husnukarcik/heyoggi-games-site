@@ -1,0 +1,22 @@
+{
+ "langName": "Italiano",
+ "by": "di HeyOggi Games",
+ "language": "Lingua",
+ "navSupport": "Supporto",
+ "navPrivacy": "Informativa sulla privacy",
+ "titleSupport": "Tobi's Harbor – Supporto",
+ "titlePrivacy": "Tobi's Harbor – Informativa sulla privacy",
+ "metaDescription": "Tobi's Harbor di HeyOggi Games: supporto e informativa sulla privacy.",
+ "translationNote": "Questa è una traduzione. In caso di differenze rispetto alla versione inglese, prevale la versione inglese.",
+ "intro": "Aiuta Tobi a riportare in vita un sonnolento porto di mare smistando le merci, liberando gli scaffali e restaurando i moli. Un rilassante puzzle game da giocare per pochi minuti al giorno, anche offline.",
+ "supportH": "Supporto",
+ "supportP": "Domande, segnalazioni di bug o idee? Scrivici a {email}. Indica il modello del tuo dispositivo e la versione del gioco ({settings} → in fondo alla schermata). Di solito rispondiamo entro 2 giorni lavorativi.",
+ "faqH": "Domande frequenti",
+ "q1": "Dove vengono salvati i miei progressi?",
+ "a1": "Solo sul tuo dispositivo. Il gioco non ha account né salvataggio nel cloud, quindi disinstallandolo elimini i tuoi progressi (su Android, una copia potrebbe essere ripristinata dal backup di sistema di Google, se è attivo).",
+ "q2": "Come ricomincio il gioco da capo?",
+ "a2": "{settings} → {resetProgress}. Il gioco ti chiede prima una conferma. Le impostazioni di suono, lingua e condivisione dei dati restano invariate.",
+ "q3": "Come smetto di condividere le statistiche di gioco o come le elimino?",
+ "a3": "{settings} → disattiva {dataSharing}; da quel momento non viene inviata alcuna statistica. {settings} → {deleteData} chiede a Unity Analytics di eliminare le statistiche anonime collegate al tuo gioco; di solito l'operazione si completa entro 30 giorni. Per i dettagli consulta la pagina {privacyLink}.",
+ "mailSubjectSupport": "Supporto Tobi's Harbor"
+}
