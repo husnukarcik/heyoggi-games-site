@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. De game vraagt je eerst om te bevestigen. Je instellingen voor geluid, taal en het delen van gegevens blijven behouden.",
  "q3": "Hoe stop ik met het delen van spelstatistieken of hoe verwijder ik ze?",
  "a3": "{settings} → zet {dataSharing} uit; vanaf dat moment worden er geen statistieken meer verstuurd. {settings} → {deleteData} vraagt Unity Analytics om de anonieme statistieken die aan je game zijn gekoppeld te verwijderen; dit is meestal binnen 30 dagen afgerond. Zie {privacyLink} voor meer informatie.",
- "mailSubjectSupport": "Support Tobi's Harbor"
+ "mailSubjectSupport": "Support Tobi's Harbor",
+ "navDelete": "Je gegevens verwijderen",
+ "titleDelete": "Tobi's Harbor – Je gegevens verwijderen",
+ "delH": "Je gegevens van Tobi's Harbor verwijderen",
+ "delIntro": "Tobi's Harbor heeft geen accounts en geen registratie: we vragen nooit om je naam of e-mailadres. De enige gegevens die je telefoon verlaten zijn anonieme spelstatistieken, en alleen als je hebt ingestemd om ze te delen. Zo verwijder je alles.",
+ "delStatsH": "Anonieme spelstatistieken",
+ "delStats1": "Open Tobi's Harbor en ga naar {settings}.",
+ "delStats2": "Tik op {deleteData}. De game vraagt Unity Analytics om alle statistieken te verwijderen die zijn gekoppeld aan de willekeurige installatie-ID van je game en zet {dataSharing} uit. Unity rondt het verwijderen meestal binnen 30 dagen af.",
+ "delStopP": "Wil je alleen stoppen met het versturen van statistieken? Zet dan {dataSharing} uit in {settings}.",
+ "delLocalH": "Spelvoortgang op je telefoon",
+ "delLocalP": "Je voortgang wordt alleen op je apparaat opgeslagen. {settings} → {resetProgress} verwijdert die en start de game opnieuw vanaf het begin. Ook het verwijderen van de game wist je voortgang (op Android kan er een kopie in je Google-systeemback-up achterblijven als die aanstaat).",
+ "delNoAppH": "Als je de game niet meer hebt",
+ "delNoAppP": "Zonder de game kunnen we niet zien welke statistieken van jou zijn, want ze bevatten alleen een willekeurige installatie-ID en geen naam, e-mailadres of apparaat-ID. Ze worden automatisch verwijderd wanneer de bewaartermijn van Unity afloopt (ruwe gebeurtenissen na uiterlijk 1 jaar). Vragen: {email}."
 }

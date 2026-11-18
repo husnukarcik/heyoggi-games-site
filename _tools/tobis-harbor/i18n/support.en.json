@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. The game asks you to confirm first. Your sound, language and data-sharing settings are kept.",
  "q3": "How do I stop sharing play statistics or delete them?",
  "a3": "{settings} → turn off {dataSharing}; from then on no statistics are sent. {settings} → {deleteData} asks Unity Analytics to delete the anonymous statistics linked to your game; this is usually completed within 30 days. See the {privacyLink} for details.",
- "mailSubjectSupport": "Tobi's Harbor support"
+ "mailSubjectSupport": "Tobi's Harbor support",
+ "navDelete": "Delete your data",
+ "titleDelete": "Tobi's Harbor – Delete Your Data",
+ "delH": "Delete your Tobi's Harbor data",
+ "delIntro": "Tobi's Harbor has no accounts and no sign-up: we never ask for your name or e-mail. The only data that leaves your phone is anonymous play statistics, and only if you agreed to share them. Here is how to delete everything.",
+ "delStatsH": "Anonymous play statistics",
+ "delStats1": "Open Tobi's Harbor and go to {settings}.",
+ "delStats2": "Tap {deleteData}. The game asks Unity Analytics to delete all statistics linked to your game's random install id and turns {dataSharing} off. Unity usually completes the deletion within 30 days.",
+ "delStopP": "To only stop sending statistics, turn off {dataSharing} in {settings}.",
+ "delLocalH": "Game progress on your phone",
+ "delLocalP": "Your progress is stored only on your device. {settings} → {resetProgress} deletes it and starts the game over. Uninstalling the game also deletes it (on Android, a copy may remain in your Google system backup if it is turned on).",
+ "delNoAppH": "If you no longer have the game",
+ "delNoAppP": "Without the game we cannot tell which statistics are yours, because they carry only a random install id and no name, e-mail or device identifier. They are deleted automatically when Unity's retention period ends (raw events after at most 1 year). Questions: {email}."
 }

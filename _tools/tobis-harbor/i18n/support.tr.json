@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. Oyun önce onay ister. Ses, dil ve veri paylaşımı ayarların korunur.",
  "q3": "Oyun istatistiklerini paylaşmayı nasıl durdururum ya da silerim?",
  "a3": "{settings} → {dataSharing} seçeneğini kapat; o andan sonra hiçbir istatistik gönderilmez. {settings} → {deleteData}, Unity Analytics'ten oyununla ilişkili anonim istatistikleri silmesini ister; bu genelde 30 gün içinde tamamlanır. Ayrıntılar için {privacyLink} sayfasına bak.",
- "mailSubjectSupport": "Tobi's Harbor destek"
+ "mailSubjectSupport": "Tobi's Harbor destek",
+ "navDelete": "Verilerini sil",
+ "titleDelete": "Tobi's Harbor – Verilerini Sil",
+ "delH": "Tobi's Harbor verilerini sil",
+ "delIntro": "Tobi's Harbor'da hesap ya da üyelik yok: adını veya e-postanı hiç istemeyiz. Telefonundan çıkan tek veri anonim oyun istatistikleridir; o da yalnızca paylaşmayı kabul ettiysen. Hepsini nasıl sileceğin aşağıda.",
+ "delStatsH": "Anonim oyun istatistikleri",
+ "delStats1": "Tobi's Harbor'ı aç ve {settings} ekranına gir.",
+ "delStats2": "{deleteData} düğmesine dokun. Oyun, Unity Analytics'ten oyununun rastgele kurulum kimliğiyle ilişkili tüm istatistikleri silmesini ister ve {dataSharing} seçeneğini kapatır. Unity silmeyi genelde 30 gün içinde tamamlar.",
+ "delStopP": "Yalnızca istatistik gönderimini durdurmak için {settings} ekranında {dataSharing} seçeneğini kapat.",
+ "delLocalH": "Telefonundaki oyun ilerlemesi",
+ "delLocalP": "İlerlemen yalnızca cihazında saklanır. {settings} → {resetProgress} onu siler ve oyunu baştan başlatır. Oyunu kaldırmak da siler (Android'de Google sistem yedeklemesi açıksa bir kopyası orada kalabilir).",
+ "delNoAppH": "Oyun artık yüklü değilse",
+ "delNoAppP": "Oyun olmadan hangi istatistiklerin sana ait olduğunu bilemeyiz; çünkü bunlar yalnızca rastgele bir kurulum kimliği taşır, ad, e-posta ya da cihaz kimliği taşımaz. Unity'nin saklama süresi dolunca kendiliğinden silinirler (ham olaylar en geç 1 yıl sonra). Soruların için: {email}."
 }

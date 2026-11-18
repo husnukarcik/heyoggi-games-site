@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. Game akan meminta konfirmasimu terlebih dahulu. Pengaturan suara, bahasa, dan berbagi data kamu tetap disimpan.",
  "q3": "Bagaimana cara berhenti membagikan statistik permainan atau menghapusnya?",
  "a3": "{settings} → matikan {dataSharing}; sejak saat itu tidak ada statistik yang dikirim. {settings} → {deleteData} akan meminta Unity Analytics menghapus statistik anonim yang terkait dengan game-mu; biasanya proses ini selesai dalam 30 hari. Lihat {privacyLink} untuk detailnya.",
- "mailSubjectSupport": "Dukungan Tobi's Harbor"
+ "mailSubjectSupport": "Dukungan Tobi's Harbor",
+ "navDelete": "Hapus datamu",
+ "titleDelete": "Tobi's Harbor – Hapus Datamu",
+ "delH": "Hapus data Tobi's Harbor kamu",
+ "delIntro": "Tobi's Harbor tidak punya akun dan tidak perlu mendaftar: kami tidak pernah meminta nama atau email kamu. Satu-satunya data yang keluar dari ponselmu adalah statistik permainan anonim, dan itu pun hanya jika kamu setuju untuk membagikannya. Berikut cara menghapus semuanya.",
+ "delStatsH": "Statistik permainan anonim",
+ "delStats1": "Buka Tobi's Harbor dan masuk ke {settings}.",
+ "delStats2": "Ketuk {deleteData}. Game akan meminta Unity Analytics menghapus semua statistik yang terkait dengan ID instalasi acak game-mu dan mematikan {dataSharing}. Unity biasanya menyelesaikan penghapusan dalam 30 hari.",
+ "delStopP": "Jika kamu hanya ingin berhenti mengirim statistik, matikan {dataSharing} di {settings}.",
+ "delLocalH": "Progres game di ponselmu",
+ "delLocalP": "Progresmu hanya disimpan di perangkatmu. {settings} → {resetProgress} akan menghapusnya dan memulai game dari awal. Menghapus instalasi game juga akan menghapusnya (di Android, salinannya mungkin tetap ada di cadangan sistem Google kamu jika fitur itu aktif).",
+ "delNoAppH": "Jika kamu sudah tidak punya game-nya",
+ "delNoAppP": "Tanpa game-nya, kami tidak bisa mengetahui statistik mana yang milikmu, karena statistik itu hanya membawa ID instalasi acak, tanpa nama, email, atau ID perangkat. Statistik itu terhapus otomatis saat masa penyimpanan Unity berakhir (peristiwa mentah paling lambat setelah 1 tahun). Pertanyaan: {email}."
 }

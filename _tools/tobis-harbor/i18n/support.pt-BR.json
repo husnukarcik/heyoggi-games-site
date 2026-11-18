@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. O jogo pede uma confirmação antes. Suas configurações de som, idioma e compartilhamento de dados são mantidas.",
  "q3": "Como paro de compartilhar as estatísticas de jogo ou as apago?",
  "a3": "{settings} → desative {dataSharing}; a partir daí, nenhuma estatística é enviada. {settings} → {deleteData} pede ao Unity Analytics que apague as estatísticas anônimas vinculadas ao seu jogo; isso normalmente é concluído em até 30 dias. Detalhes: {privacyLink}.",
- "mailSubjectSupport": "Suporte Tobi's Harbor"
+ "mailSubjectSupport": "Suporte Tobi's Harbor",
+ "navDelete": "Apagar seus dados",
+ "titleDelete": "Tobi's Harbor – Apagar seus dados",
+ "delH": "Apague seus dados do Tobi's Harbor",
+ "delIntro": "O Tobi's Harbor não tem contas nem cadastro: nunca pedimos seu nome ou e-mail. Os únicos dados que saem do seu celular são estatísticas de jogo anônimas, e só se você concordou em compartilhá-las. Veja como apagar tudo.",
+ "delStatsH": "Estatísticas de jogo anônimas",
+ "delStats1": "Abra o Tobi's Harbor e vá até {settings}.",
+ "delStats2": "Toque em {deleteData}. O jogo pede ao Unity Analytics que apague todas as estatísticas vinculadas ao ID de instalação aleatório do seu jogo e desativa {dataSharing}. O Unity normalmente conclui a exclusão em até 30 dias.",
+ "delStopP": "Para apenas parar de enviar estatísticas, desative {dataSharing} em {settings}.",
+ "delLocalH": "Progresso do jogo no seu celular",
+ "delLocalP": "Seu progresso fica salvo apenas no seu dispositivo. {settings} → {resetProgress} apaga esse progresso e recomeça o jogo do início. Desinstalar o jogo também o apaga (no Android, uma cópia pode ficar no seu backup do sistema do Google, se ele estiver ativado).",
+ "delNoAppH": "Se você não tem mais o jogo",
+ "delNoAppP": "Sem o jogo, não conseguimos saber quais estatísticas são suas, porque elas têm apenas um ID de instalação aleatório e nenhum nome, e-mail ou identificador do dispositivo. Elas são apagadas automaticamente quando termina o período de retenção do Unity (eventos brutos depois de no máximo 1 ano). Dúvidas: {email}."
 }

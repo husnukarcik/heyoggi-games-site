@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tobi's Harbor destek ve gizlilik sayfalarını oyunun 10 dilinde üretir.
+"""Tobi's Harbor destek, gizlilik ve veri silme sayfalarını oyunun 10 dilinde üretir.
 
 Kaynaklar: i18n/privacy.<dil>.md (gizlilik politikası; en ve tr oyunun deposundaki docs/legal ile aynı),
 i18n/support.<dil>.json (destek sayfası), app_labels.json (oyundaki menü adları, Strings.csv'den).
@@ -20,7 +20,7 @@ SITE = 'https://games.heyoggi.com'
 EMAIL = 'heyoggi.games@gmail.com'
 # Oyundaki dil sırası (Strings.csv); İngilizce kökte
 LANGS = ['en', 'tr', 'de', 'fr', 'es', 'pt-BR', 'it', 'nl', 'pl', 'id']
-PAGES = {'support': '', 'privacy': 'privacy/'}
+PAGES = {'support': '', 'privacy': 'privacy/', 'delete': 'delete-data/'}
 
 _inline = md2html.inline
 
@@ -96,7 +96,7 @@ def fill(text: str, lang: str, t: dict, labels: dict) -> str:
 
 
 def page(lang: str, kind: str, t: dict, labels: dict, all_t: dict, privacy_html: str) -> str:
-    title = t['titleSupport'] if kind == 'support' else t['titlePrivacy']
+    title = {'support': t['titleSupport'], 'privacy': t['titlePrivacy'], 'delete': t['titleDelete']}[kind]
     alternates = '\n'.join(f'<link rel="alternate" hreflang="{l}" href="{SITE}{url(l, kind)}">' for l in LANGS)
     alternates += f'\n<link rel="alternate" hreflang="x-default" href="{SITE}{url("en", kind)}">'
     langs = '\n'.join(
@@ -105,7 +105,7 @@ def page(lang: str, kind: str, t: dict, labels: dict, all_t: dict, privacy_html:
     )
     nav = ''.join(
         f'<a href="{url(lang, k)}"{" aria-current=\"page\"" if k == kind else ""}>{html.escape(t[n])}</a>'
-        for k, n in (('support', 'navSupport'), ('privacy', 'navPrivacy'))
+        for k, n in (('support', 'navSupport'), ('privacy', 'navPrivacy'), ('delete', 'navDelete'))
     )
     f = lambda key: fill(t[key], lang, t, labels)
     if kind == 'support':
@@ -116,6 +116,18 @@ def page(lang: str, kind: str, t: dict, labels: dict, all_t: dict, privacy_html:
 <p>{f('supportP')}</p>
 <h2 class="title">{html.escape(t['faqH'])}</h2>
 {qa}
+</div>"""
+    elif kind == 'delete':
+        body = f"""<div class="card">
+<h2 class="title">{html.escape(t['delH'])}</h2>
+<p>{f('delIntro')}</p>
+<h3>{html.escape(t['delStatsH'])}</h3>
+<ol><li>{f('delStats1')}</li><li>{f('delStats2')}</li></ol>
+<p>{f('delStopP')}</p>
+<h3>{html.escape(t['delLocalH'])}</h3>
+<p>{f('delLocalP')}</p>
+<h3>{html.escape(t['delNoAppH'])}</h3>
+<p>{f('delNoAppP')}</p>
 </div>"""
     else:
         body = f'<div class="card">\n{privacy_html}\n</div>'

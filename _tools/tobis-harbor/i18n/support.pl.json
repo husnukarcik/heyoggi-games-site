@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. Gra najpierw poprosi cię o potwierdzenie. Twoje ustawienia dźwięku, języka i udostępniania danych zostaną zachowane.",
  "q3": "Jak przestać udostępniać statystyki gry albo je usunąć?",
  "a3": "{settings} → wyłącz opcję {dataSharing}; od tej chwili żadne statystyki nie są wysyłane. Opcja {settings} → {deleteData} prosi Unity Analytics o usunięcie anonimowych statystyk powiązanych z twoją grą; zwykle kończy się to w ciągu 30 dni. Szczegóły znajdziesz na stronie {privacyLink}.",
- "mailSubjectSupport": "Tobi's Harbor – pomoc"
+ "mailSubjectSupport": "Tobi's Harbor – pomoc",
+ "navDelete": "Usuń swoje dane",
+ "titleDelete": "Tobi's Harbor – Usuń swoje dane",
+ "delH": "Usuń swoje dane z Tobi's Harbor",
+ "delIntro": "Tobi's Harbor nie ma kont ani rejestracji: nigdy nie prosimy o twoje imię ani adres e-mail. Jedyne dane, które opuszczają twój telefon, to anonimowe statystyki gry, i to tylko za twoją zgodą na ich udostępnianie. Oto jak usunąć wszystko.",
+ "delStatsH": "Anonimowe statystyki gry",
+ "delStats1": "Otwórz Tobi's Harbor i przejdź do menu {settings}.",
+ "delStats2": "Dotknij przycisku {deleteData}. Gra prosi Unity Analytics o usunięcie wszystkich statystyk powiązanych z losowym identyfikatorem instalacji twojej gry i wyłącza przełącznik {dataSharing}. Unity zwykle kończy usuwanie w ciągu 30 dni.",
+ "delStopP": "Jeśli chcesz tylko przestać wysyłać statystyki, wyłącz przełącznik {dataSharing} w menu {settings}.",
+ "delLocalH": "Postęp gry na twoim telefonie",
+ "delLocalP": "Twój postęp jest zapisywany wyłącznie na twoim urządzeniu. {settings} → {resetProgress} usuwa go i rozpoczyna grę od nowa. Odinstalowanie gry również go usuwa (na Androidzie, jeśli kopia zapasowa systemu Google jest włączona, może w niej pozostać kopia).",
+ "delNoAppH": "Jeśli nie masz już gry",
+ "delNoAppP": "Bez gry nie możemy ustalić, które statystyki są twoje, ponieważ zawierają tylko losowy identyfikator instalacji, bez imienia, adresu e-mail ani identyfikatora urządzenia. Są usuwane automatycznie po upływie okresu przechowywania w Unity (surowe zdarzenia najpóźniej po 1 roku). Pytania: {email}."
 }

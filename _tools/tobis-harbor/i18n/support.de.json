@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. Das Spiel bittet dich vorher um Bestätigung. Deine Einstellungen für Sound, Sprache und Datenfreigabe bleiben erhalten.",
  "q3": "Wie höre ich auf, Spielstatistiken zu teilen, oder lösche sie?",
  "a3": "{settings} → schalte {dataSharing} aus; ab dann werden keine Statistiken mehr gesendet. {settings} → {deleteData} bittet Unity Analytics, die mit deinem Spiel verknüpften anonymen Statistiken zu löschen; das ist normalerweise innerhalb von 30 Tagen abgeschlossen. Details: {privacyLink}.",
- "mailSubjectSupport": "Tobi's Harbor Support"
+ "mailSubjectSupport": "Tobi's Harbor Support",
+ "navDelete": "Daten löschen",
+ "titleDelete": "Tobi's Harbor – Deine Daten löschen",
+ "delH": "Deine Daten aus Tobi's Harbor löschen",
+ "delIntro": "Tobi's Harbor hat keine Konten und keine Registrierung: Wir fragen nie nach deinem Namen oder deiner E-Mail-Adresse. Die einzigen Daten, die dein Handy verlassen, sind anonyme Spielstatistiken, und das auch nur, wenn du zugestimmt hast, sie zu teilen. So löschst du alles.",
+ "delStatsH": "Anonyme Spielstatistiken",
+ "delStats1": "Öffne Tobi's Harbor und geh zu {settings}.",
+ "delStats2": "Tippe auf {deleteData}. Das Spiel bittet Unity Analytics, alle Statistiken zu löschen, die mit der zufälligen Installations-ID deines Spiels verknüpft sind, und schaltet {dataSharing} aus. Unity schließt die Löschung normalerweise innerhalb von 30 Tagen ab.",
+ "delStopP": "Wenn du nur keine Statistiken mehr senden möchtest, schalte {dataSharing} unter {settings} aus.",
+ "delLocalH": "Spielfortschritt auf deinem Handy",
+ "delLocalP": "Dein Fortschritt wird nur auf deinem Gerät gespeichert. {settings} → {resetProgress} löscht ihn und startet das Spiel von vorn. Auch das Deinstallieren des Spiels löscht ihn (auf Android kann eine Kopie in deiner Google-Systemsicherung bleiben, wenn sie aktiviert ist).",
+ "delNoAppH": "Wenn du das Spiel nicht mehr hast",
+ "delNoAppP": "Ohne das Spiel können wir nicht erkennen, welche Statistiken deine sind, denn sie enthalten nur eine zufällige Installations-ID und keinen Namen, keine E-Mail-Adresse und keine Gerätekennung. Sie werden automatisch gelöscht, wenn die Aufbewahrungsfrist von Unity endet (Rohereignisse nach höchstens 1 Jahr). Fragen: {email}."
 }

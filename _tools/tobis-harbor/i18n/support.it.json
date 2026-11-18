@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. Il gioco ti chiede prima una conferma. Le impostazioni di suono, lingua e condivisione dei dati restano invariate.",
  "q3": "Come smetto di condividere le statistiche di gioco o come le elimino?",
  "a3": "{settings} → disattiva {dataSharing}; da quel momento non viene inviata alcuna statistica. {settings} → {deleteData} chiede a Unity Analytics di eliminare le statistiche anonime collegate al tuo gioco; di solito l'operazione si completa entro 30 giorni. Per i dettagli consulta la pagina {privacyLink}.",
- "mailSubjectSupport": "Supporto Tobi's Harbor"
+ "mailSubjectSupport": "Supporto Tobi's Harbor",
+ "navDelete": "Elimina i tuoi dati",
+ "titleDelete": "Tobi's Harbor – Elimina i tuoi dati",
+ "delH": "Elimina i tuoi dati di Tobi's Harbor",
+ "delIntro": "Tobi's Harbor non ha account né registrazione: non ti chiediamo mai il tuo nome o il tuo indirizzo e-mail. Gli unici dati che lasciano il tuo telefono sono statistiche di gioco anonime, e solo se hai accettato di condividerle. Ecco come eliminare tutto.",
+ "delStatsH": "Statistiche di gioco anonime",
+ "delStats1": "Apri Tobi's Harbor e vai su {settings}.",
+ "delStats2": "Tocca {deleteData}. Il gioco chiede a Unity Analytics di eliminare tutte le statistiche collegate all'ID di installazione casuale del tuo gioco e disattiva {dataSharing}. Di solito Unity completa l'eliminazione entro 30 giorni.",
+ "delStopP": "Per interrompere soltanto l'invio delle statistiche, disattiva {dataSharing} in {settings}.",
+ "delLocalH": "Progressi di gioco sul tuo telefono",
+ "delLocalP": "I tuoi progressi sono salvati solo sul tuo dispositivo. {settings} → {resetProgress} li elimina e fa ricominciare il gioco da capo. Anche disinstallare il gioco li elimina (su Android, se il backup di sistema di Google è attivo, una copia può restare lì).",
+ "delNoAppH": "Se non hai più il gioco",
+ "delNoAppP": "Senza il gioco non possiamo sapere quali statistiche sono tue, perché contengono solo un ID di installazione casuale e nessun nome, indirizzo e-mail o identificativo del dispositivo. Vengono eliminate automaticamente alla fine del periodo di conservazione di Unity (gli eventi grezzi dopo al massimo 1 anno). Domande: {email}."
 }

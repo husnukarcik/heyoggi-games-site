@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. Le jeu te demande d'abord de confirmer. Tes réglages de son, de langue et de partage de données sont conservés.",
  "q3": "Comment arrêter de partager les statistiques de jeu ou les supprimer ?",
  "a3": "{settings} → désactive {dataSharing} ; dès lors, plus aucune statistique n'est envoyée. {settings} → {deleteData} demande à Unity Analytics de supprimer les statistiques anonymes liées à ton jeu ; c'est généralement fait sous 30 jours. Détails : {privacyLink}.",
- "mailSubjectSupport": "Assistance Tobi's Harbor"
+ "mailSubjectSupport": "Assistance Tobi's Harbor",
+ "navDelete": "Supprimer tes données",
+ "titleDelete": "Tobi's Harbor – Supprimer tes données",
+ "delH": "Supprimer tes données de Tobi's Harbor",
+ "delIntro": "Tobi's Harbor n'a ni compte ni inscription : nous ne te demandons jamais ton nom ni ton adresse e-mail. Les seules données qui quittent ton téléphone sont des statistiques de jeu anonymes, et uniquement si tu as accepté de les partager. Voici comment tout supprimer.",
+ "delStatsH": "Statistiques de jeu anonymes",
+ "delStats1": "Ouvre Tobi's Harbor et va dans {settings}.",
+ "delStats2": "Appuie sur {deleteData}. Le jeu demande à Unity Analytics de supprimer toutes les statistiques liées à l'identifiant d'installation aléatoire de ton jeu et désactive {dataSharing}. Unity termine généralement la suppression sous 30 jours.",
+ "delStopP": "Pour seulement arrêter l'envoi de statistiques, désactive {dataSharing} dans {settings}.",
+ "delLocalH": "Progression du jeu sur ton téléphone",
+ "delLocalP": "Ta progression est enregistrée uniquement sur ton appareil. {settings} → {resetProgress} la supprime et recommence le jeu depuis le début. Désinstaller le jeu la supprime aussi (sur Android, une copie peut rester dans ta sauvegarde système Google si elle est activée).",
+ "delNoAppH": "Si tu n'as plus le jeu",
+ "delNoAppP": "Sans le jeu, nous ne pouvons pas savoir quelles statistiques sont les tiennes, car elles ne comportent qu'un identifiant d'installation aléatoire, sans nom, sans adresse e-mail ni identifiant d'appareil. Elles sont supprimées automatiquement à la fin de la durée de conservation de Unity (événements bruts au plus tard après 1 an). Questions : {email}."
 }

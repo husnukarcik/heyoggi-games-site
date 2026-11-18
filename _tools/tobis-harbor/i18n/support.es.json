@@ -18,5 +18,17 @@
  "a2": "{settings} → {resetProgress}. El juego te pide confirmación primero. Se conservan tus ajustes de sonido, idioma y uso compartido de datos.",
  "q3": "¿Cómo dejo de compartir las estadísticas de juego o las borro?",
  "a3": "{settings} → desactiva {dataSharing}; a partir de ese momento no se envía ninguna estadística. {settings} → {deleteData} pide a Unity Analytics que borre las estadísticas anónimas vinculadas a tu juego; normalmente se completa en un plazo de 30 días. Más detalles: {privacyLink}.",
- "mailSubjectSupport": "Soporte de Tobi's Harbor"
+ "mailSubjectSupport": "Soporte de Tobi's Harbor",
+ "navDelete": "Borrar tus datos",
+ "titleDelete": "Tobi's Harbor – Borrar tus datos",
+ "delH": "Borra tus datos de Tobi's Harbor",
+ "delIntro": "Tobi's Harbor no tiene cuentas ni registro: nunca te pedimos tu nombre ni tu correo electrónico. Los únicos datos que salen de tu teléfono son estadísticas de juego anónimas, y solo si aceptaste compartirlas. Así puedes borrarlo todo.",
+ "delStatsH": "Estadísticas de juego anónimas",
+ "delStats1": "Abre Tobi's Harbor y ve a {settings}.",
+ "delStats2": "Toca {deleteData}. El juego pide a Unity Analytics que borre todas las estadísticas vinculadas al ID de instalación aleatorio de tu juego y desactiva {dataSharing}. Unity suele completar el borrado en un plazo de 30 días.",
+ "delStopP": "Si solo quieres dejar de enviar estadísticas, desactiva {dataSharing} en {settings}.",
+ "delLocalH": "Progreso del juego en tu teléfono",
+ "delLocalP": "Tu progreso se guarda solo en tu dispositivo. {settings} → {resetProgress} lo borra y empieza el juego desde el principio. Desinstalar el juego también lo borra (en Android, puede quedar una copia en tu copia de seguridad del sistema de Google si está activada).",
+ "delNoAppH": "Si ya no tienes el juego",
+ "delNoAppP": "Sin el juego no podemos saber qué estadísticas son tuyas, porque solo llevan un ID de instalación aleatorio y ningún nombre, correo electrónico ni identificador del dispositivo. Se borran automáticamente cuando termina el periodo de conservación de Unity (los eventos sin procesar, como máximo después de 1 año). Preguntas: {email}."
 }
