@@ -1,6 +1,6 @@
 {
   "langName": "Deutsch",
-  "date": "18. November 2026",
+  "date": "19. November 2026",
   "by": "von HeyOggi Games",
   "language": "Sprache",
   "navSupport": "Support",
@@ -11,7 +11,6 @@
   "titleDelete": "Frostclimb – Konto löschen",
   "metaDescription": "Frostclimb von HeyOggi Games: Support, Datenschutzerklärung und Kontolöschung.",
   "translationNote": "Dies ist eine Übersetzung. Wenn sie von der englischen Fassung abweicht, gilt die englische Fassung.",
-
   "intro": "Spring, prall von Wänden ab und verkette Combos, um einen eisigen Turm durch 30 gefrorene Welten hinaufzuklettern. Kostenlos spielbar auf iPhone, iPad und Android.",
   "supportH": "Support",
   "supportP": "Fragen, Fehlerberichte oder Probleme mit einem Kauf? Schreib uns eine E-Mail an {email}. Gib bitte dein Gerätemodell und deinen Spielernamen an. Wir antworten normalerweise innerhalb von 2 Werktagen.",
@@ -24,7 +23,6 @@
   "a3": "{settings} → {controls}: {oneHand}, {tilt} oder {classic}. Im Modus {tilt} kannst du außerdem die {sens} wählen.",
   "q4": "Wie lösche ich meine Daten?",
   "a4": "{settings} → {account} → {deleteAccount} / {deleteData}, oder siehe {deleteLink}.",
-
   "privacyH": "Datenschutzerklärung",
   "effective": "Gültig ab: {date}",
   "pIntro": "Diese Erklärung beschreibt, welche Informationen das Handyspiel Frostclimb („die App“), herausgegeben von HeyOggi Games („wir“), erhebt, warum, und welche Wahlmöglichkeiten du hast. Sie gilt für die iOS- und die Android-Version der App.",
@@ -35,11 +33,12 @@
   "c4": "<b>Spieldaten</b> – Fortschritt, Level, Sterne, Münzen, Punktzahlen, Einstellungen und gekaufte Gegenstände. Sie werden genutzt, um das Spiel zu betreiben und zwischen deinen Geräten zu synchronisieren. Deine beste Punktzahl und dein Spielername sind für andere Spieler in der Bestenliste sichtbar.",
   "c5": "<b>Kaufdaten</b> – welche In-App-Artikel du gekauft hast, damit wir sie dir liefern und wiederherstellen können. Zahlungen werden vollständig über den App Store oder Google Play abgewickelt; deine Karten- oder Zahlungsdaten sehen wir nie.",
   "c6": "<b>Werbe- und Gerätedaten</b> – erhoben vom Google Mobile Ads SDK (AdMob): Werbe-ID, IP-Adresse (aus der ein ungefährer Standort abgeleitet wird), Geräte- und App-Informationen, Interaktionen mit Werbung sowie Absturz- und Diagnosedaten. Sie werden genutzt, um Werbung anzuzeigen und zu messen und um Betrug zu verhindern.",
-  "notCollected": "Wir erheben weder deinen genauen Standort noch deine Kontakte, Fotos, Mikrofon- oder Kameradaten. Im Modus {tilt} nutzt die App den Bewegungssensor des Handys nur, während du spielst; diese Daten bleiben auf deinem Gerät und werden nirgendwohin gesendet.",
+  "c7": "<b>Nutzungsdaten (Analyse)</b> – Spielereignisse wie begonnene und beendete Level, Punktzahlen, genutzte Modi und Power-ups sowie mit Gold gekaufte Artikel, zusammen mit einer zufälligen App-ID (nicht deiner Werbe-ID), Gerätetyp, Betriebssystem und ungefährem Land. Erhoben mit Google Analytics for Firebase, um zu verstehen, wie das Spiel gespielt wird, und es zu verbessern. Du kannst das jederzeit unter {settings} → {analytics} abschalten.",
+  "notCollected": "Wir erheben weder deinen genauen Standort noch deine Kontakte, Fotos, Mikrofon- oder Kameradaten. Im Modus {tilt} nutzt die App den Bewegungssensor des Handys nur, während du spielst; diese Daten bleiben auf deinem Gerät und werden nirgendwohin gesendet. Erinnerungen werden auf deinem Gerät geplant; dafür werden keine Daten gesendet, und du kannst sie unter {settings} → {notify} abschalten.",
   "h2": "2. Werbung",
   "pAds": "Die App zeigt Werbung von Google AdMob, darunter optionale Werbung mit Belohnung, die du freiwillig ansiehst. Wo es vorgeschrieben ist (zum Beispiel im EWR, im Vereinigten Königreich und in der Schweiz), wirst du über die Einwilligungsmeldung von Google um deine Einwilligung gebeten und kannst deine Wahl später ändern. Unter iOS wird Werbung nur personalisiert, wenn du in der Abfrage von Apples App Tracking Transparency das Tracking erlaubst; andernfalls wird nicht personalisierte Werbung angezeigt. Du kannst deine Werbe-ID in den Einstellungen deines Geräts zurücksetzen oder löschen. Wenn du „Werbung entfernen“ kaufst, werden keine Interstitial-Anzeigen mehr angezeigt. Wie Google Daten nutzt: {googlePartner}.",
   "h3": "3. Dienstleister",
-  "pProviders": "Google Firebase (Authentication, Cloud Firestore) speichert dein Spielkonto und deinen Cloud-Spielstand; Google AdMob liefert die Werbung; Apple und Google stellen die Anmeldung bereit und wickeln die Zahlungen für In-App-Käufe ab. Wir verkaufen deine personenbezogenen Daten nicht und geben sie an niemanden sonst weiter, außer wenn das Gesetz es verlangt.",
+  "pProviders": "Google Firebase (Authentication, Cloud Firestore) speichert dein Spielkonto und deinen Cloud-Spielstand; Google AdMob liefert die Werbung; Apple und Google stellen die Anmeldung bereit und wickeln die Zahlungen für In-App-Käufe ab. Wir verkaufen deine personenbezogenen Daten nicht und geben sie an niemanden sonst weiter, außer wenn das Gesetz es verlangt. Google Analytics for Firebase misst, wie das Spiel genutzt wird (ohne Werbe-ID, ohne personalisierte Werbung).",
   "h4": "4. Daten auf deinem Gerät",
   "pDevice": "Dein Fortschritt und deine Einstellungen werden auch auf deinem Gerät gespeichert, damit das Spiel offline funktioniert. Wenn du die App deinstallierst, wird diese Kopie entfernt.",
   "h5": "5. Wie lange wir Daten speichern",
@@ -56,7 +55,6 @@
   "pChanges": "Wir können diese Erklärung aktualisieren. Das Datum „Gültig ab“ oben zeigt die neueste Fassung; wichtige Änderungen werden zusätzlich in der App bekannt gegeben.",
   "h11": "11. Kontakt",
   "pContact": "HeyOggi Games – E-Mail: {email}",
-
   "deleteH": "Dein Frostclimb-Konto löschen",
   "opt1H": "Option 1 – In der App (sofort)",
   "step1": "Öffne Frostclimb.",

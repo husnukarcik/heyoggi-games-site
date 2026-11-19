@@ -1,6 +1,6 @@
 {
   "langName": "Bahasa Indonesia",
-  "date": "18 November 2026",
+  "date": "19 November 2026",
   "by": "oleh HeyOggi Games",
   "language": "Bahasa",
   "navSupport": "Dukungan",
@@ -11,7 +11,6 @@
   "titleDelete": "Frostclimb – Hapus Akunmu",
   "metaDescription": "Frostclimb oleh HeyOggi Games: dukungan, kebijakan privasi, dan penghapusan akun.",
   "translationNote": "Ini adalah terjemahan. Jika ada perbedaan dengan versi bahasa Inggris, yang berlaku adalah versi bahasa Inggris.",
-
   "intro": "Lompat, memantul di dinding, dan rangkai kombo untuk mendaki menara es melintasi 30 dunia beku. Gratis dimainkan di iPhone, iPad, dan Android.",
   "supportH": "Dukungan",
   "supportP": "Punya pertanyaan, mau melaporkan bug, atau ada masalah pembelian? Kirim e-mail ke {email}. Sertakan model perangkat dan nama pemainmu. Kami biasanya membalas dalam 2 hari kerja.",
@@ -24,7 +23,6 @@
   "a3": "{settings} → {controls}: {oneHand}, {tilt}, atau {classic}. Di mode {tilt}, kamu juga bisa memilih {sens}.",
   "q4": "Bagaimana cara menghapus dataku?",
   "a4": "{settings} → {account} → {deleteAccount} / {deleteData}, atau lihat {deleteLink}.",
-
   "privacyH": "Kebijakan Privasi",
   "effective": "Tanggal berlaku: {date}",
   "pIntro": "Kebijakan ini menjelaskan informasi apa saja yang dikumpulkan oleh game seluler Frostclimb (“aplikasi”), yang diterbitkan oleh HeyOggi Games (“kami”), alasannya, dan pilihan yang kamu miliki. Kebijakan ini berlaku untuk aplikasi versi iOS dan Android.",
@@ -35,11 +33,12 @@
   "c4": "<b>Data game</b> – progres, level, bintang, koin, skor, pengaturan, dan item yang dibeli. Digunakan untuk menjalankan game dan menyinkronkannya di antara perangkatmu. Skor terbaik dan nama pemainmu bisa dilihat oleh pemain lain di papan peringkat.",
   "c5": "<b>Catatan pembelian</b> – item dalam aplikasi yang kamu beli, agar kami bisa memberikan dan memulihkannya. Pembayaran sepenuhnya ditangani oleh App Store atau Google Play; kami tidak pernah melihat detail kartu atau pembayaranmu.",
   "c6": "<b>Data iklan dan perangkat</b> – dikumpulkan oleh Google Mobile Ads SDK (AdMob): ID iklan, alamat IP (yang digunakan untuk memperkirakan lokasi secara kasar), informasi perangkat dan aplikasi, interaksi dengan iklan, serta data crash/diagnostik. Digunakan untuk menampilkan dan mengukur iklan serta mencegah penipuan.",
-  "notCollected": "Kami tidak mengumpulkan lokasi tepatmu, kontak, foto, maupun data mikrofon atau kamera. Di mode {tilt}, aplikasi menggunakan sensor gerak HP hanya saat kamu bermain; data ini tetap ada di perangkatmu dan tidak pernah dikirim ke mana pun.",
+  "c7": "<b>Data penggunaan (analitik)</b> – peristiwa dalam game seperti level yang dimulai dan diselesaikan, skor, mode dan penguat yang dipakai, serta barang yang dibeli dengan emas, bersama ID aplikasi acak (bukan ID iklanmu), jenis perangkat, sistem operasi, dan perkiraan negara. Dikumpulkan dengan Google Analytics for Firebase untuk memahami cara game dimainkan dan memperbaikinya. Kamu bisa mematikannya kapan saja di {settings} → {analytics}.",
+  "notCollected": "Kami tidak mengumpulkan lokasi tepatmu, kontak, foto, maupun data mikrofon atau kamera. Di mode {tilt}, aplikasi menggunakan sensor gerak HP hanya saat kamu bermain; data ini tetap ada di perangkatmu dan tidak pernah dikirim ke mana pun. Notifikasi pengingat dijadwalkan di perangkatmu; tidak ada data yang dikirim untuknya, dan kamu bisa mematikannya di {settings} → {notify}.",
   "h2": "2. Iklan",
   "pAds": "Aplikasi ini menampilkan iklan dari Google AdMob, termasuk iklan berhadiah opsional yang kamu pilih sendiri untuk ditonton. Jika diwajibkan (misalnya di Wilayah Ekonomi Eropa, Inggris, dan Swiss), kamu akan dimintai persetujuan melalui pesan persetujuan Google, dan kamu bisa mengubah pilihanmu nanti. Di iOS, iklan hanya dipersonalisasi jika kamu mengizinkan pelacakan pada permintaan App Tracking Transparency dari Apple; jika tidak, iklan yang tidak dipersonalisasi akan ditampilkan. Kamu bisa mereset atau menghapus ID iklanmu di pengaturan perangkat. Jika kamu membeli “Hapus Iklan”, iklan interstisial tidak akan ditampilkan lagi. Cara Google menggunakan data: {googlePartner}.",
   "h3": "3. Penyedia layanan",
-  "pProviders": "Google Firebase (Authentication, Cloud Firestore) menyimpan akun game dan simpanan cloud-mu; Google AdMob menyediakan iklan; Apple dan Google menyediakan layanan masuk dan memproses pembayaran pembelian dalam aplikasi. Kami tidak menjual informasi pribadimu dan tidak membagikannya kepada pihak lain mana pun, kecuali jika diwajibkan oleh hukum.",
+  "pProviders": "Google Firebase (Authentication, Cloud Firestore) menyimpan akun game dan simpanan cloud-mu; Google AdMob menyediakan iklan; Apple dan Google menyediakan layanan masuk dan memproses pembayaran pembelian dalam aplikasi. Kami tidak menjual informasi pribadimu dan tidak membagikannya kepada pihak lain mana pun, kecuali jika diwajibkan oleh hukum. Google Analytics for Firebase mengukur cara game digunakan (tanpa ID iklan dan tanpa personalisasi iklan).",
   "h4": "4. Data di perangkatmu",
   "pDevice": "Progres dan pengaturanmu juga disimpan di perangkatmu agar game bisa dimainkan secara offline. Menghapus instalan aplikasi akan menghapus salinan ini.",
   "h5": "5. Berapa lama kami menyimpan data",
@@ -56,7 +55,6 @@
   "pChanges": "Kami dapat memperbarui kebijakan ini. Tanggal berlaku di bagian atas menunjukkan versi terbaru; perubahan penting juga akan diumumkan di aplikasi.",
   "h11": "11. Kontak",
   "pContact": "HeyOggi Games – e-mail: {email}",
-
   "deleteH": "Hapus akun Frostclimb-mu",
   "opt1H": "Opsi 1 – Di aplikasi (instan)",
   "step1": "Buka Frostclimb.",

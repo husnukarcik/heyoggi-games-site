@@ -1,6 +1,6 @@
 {
   "langName": "简体中文",
-  "date": "2026年11月18日",
+  "date": "2026年11月19日",
   "by": "HeyOggi Games 出品",
   "language": "语言",
   "navSupport": "支持",
@@ -11,7 +11,6 @@
   "titleDelete": "Frostclimb – 删除你的账户",
   "metaDescription": "HeyOggi Games 出品的 Frostclimb：支持、隐私政策和账户删除。",
   "translationNote": "本页为翻译版本。如与英文版本有出入，以英文版本为准。",
-
   "intro": "跳跃、蹬墙反弹、打出连击，穿越 30 个冰封世界，攀登冰塔。可在 iPhone、iPad 和 Android 上免费游玩。",
   "supportH": "支持",
   "supportP": "有疑问、要报告错误或遇到购买问题？请发送电子邮件至 {email}。请注明你的设备型号和玩家名称。我们通常会在 2 个工作日内回复。",
@@ -24,7 +23,6 @@
   "a3": "{settings} → {controls}：{oneHand}、{tilt} 或 {classic}。在 {tilt} 模式下，你还可以选择 {sens}。",
   "q4": "如何删除我的数据？",
   "a4": "{settings} → {account} → {deleteAccount} / {deleteData}，或参阅 {deleteLink}。",
-
   "privacyH": "隐私政策",
   "effective": "生效日期：{date}",
   "pIntro": "本政策说明由 HeyOggi Games（“我们”）发行的手机游戏 Frostclimb（“本应用”）会收集哪些信息、收集的原因，以及你拥有的选择。本政策适用于本应用的 iOS 版和 Android 版。",
@@ -35,11 +33,12 @@
   "c4": "<b>游戏数据</b> – 进度、关卡、星星、金币、分数、设置和已购买的物品。用于运行游戏并在你的设备之间同步。你的最高分和玩家名称会在排行榜上对其他玩家可见。",
   "c5": "<b>购买记录</b> – 你购买了哪些应用内物品，以便我们发放和恢复这些物品。付款完全由 App Store 或 Google Play 处理；我们绝不会看到你的银行卡或付款信息。",
   "c6": "<b>广告和设备数据</b> – 由 Google Mobile Ads SDK（AdMob）收集：广告 ID、IP 地址（可据此推断大致位置）、设备和应用信息、广告互动，以及崩溃/诊断数据。用于展示和衡量广告以及防止欺诈。",
-  "notCollected": "我们不会收集你的精确位置、通讯录、照片、麦克风或摄像头数据。在 {tilt} 模式下，本应用仅在你游玩时使用手机的运动传感器；这些数据保留在你的设备上，绝不会发送到任何地方。",
+  "c7": "<b>使用数据（分析）</b> – 游戏事件，例如开始和完成的关卡、得分、使用的模式和加成、用金币购买的物品，以及随机的应用 ID（不是你的广告 ID）、设备类型、操作系统和大致国家/地区。通过 Google Analytics for Firebase 收集，用于了解游戏的玩法并改进游戏。你可以随时在 {settings} → {analytics} 中关闭。",
+  "notCollected": "我们不会收集你的精确位置、通讯录、照片、麦克风或摄像头数据。在 {tilt} 模式下，本应用仅在你游玩时使用手机的运动传感器；这些数据保留在你的设备上，绝不会发送到任何地方。 提醒通知在你的设备上设定，不会为此发送任何数据，你可以在 {settings} → {notify} 中关闭。",
   "h2": "2. 广告",
   "pAds": "本应用展示来自 Google AdMob 的广告，包括你可自行选择观看的可选激励广告。在有相关要求的地区（例如欧洲经济区、英国和瑞士），我们会通过 Google 的同意请求消息征求你的同意，你之后也可以更改选择。在 iOS 上，只有当你在 Apple 的 App Tracking Transparency 提示中允许跟踪时，才会展示个性化广告；否则将展示非个性化广告。你可以在设备设置中重置或删除你的广告 ID。如果你购买了“移除广告”，将不再展示插页式广告。Google 如何使用数据：{googlePartner}。",
   "h3": "3. 服务提供商",
-  "pProviders": "Google Firebase（Authentication、Cloud Firestore）存储你的游戏账户和云存档；Google AdMob 提供广告；Apple 和 Google 提供登录服务并处理应用内购买的付款。我们不会出售你的个人信息，也不会与其他任何人共享，法律要求的情况除外。",
+  "pProviders": "Google Firebase（Authentication、Cloud Firestore）存储你的游戏账户和云存档；Google AdMob 提供广告；Apple 和 Google 提供登录服务并处理应用内购买的付款。我们不会出售你的个人信息，也不会与其他任何人共享，法律要求的情况除外。 Google Analytics for Firebase 用于衡量游戏的使用情况（不使用广告 ID，也不进行广告个性化）。",
   "h4": "4. 你设备上的数据",
   "pDevice": "你的进度和设置也会存储在你的设备上，以便游戏可以离线运行。卸载本应用会删除这份副本。",
   "h5": "5. 我们保留数据的期限",
@@ -56,7 +55,6 @@
   "pChanges": "我们可能会更新本政策。顶部的生效日期表示最新版本；重要变更也会在应用内公告。",
   "h11": "11. 联系方式",
   "pContact": "HeyOggi Games – 电子邮件：{email}",
-
   "deleteH": "删除你的 Frostclimb 账户",
   "opt1H": "方式 1 – 在应用内（即时）",
   "step1": "打开 Frostclimb。",

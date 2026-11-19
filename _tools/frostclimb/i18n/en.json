@@ -1,6 +1,6 @@
 {
   "langName": "English",
-  "date": "18 November 2026",
+  "date": "19 November 2026",
   "by": "by HeyOggi Games",
   "language": "Language",
   "navSupport": "Support",
@@ -11,7 +11,6 @@
   "titleDelete": "Frostclimb – Delete Your Account",
   "metaDescription": "Frostclimb by HeyOggi Games: support, privacy policy and account deletion.",
   "translationNote": "This is a translation. If it differs from the English version, the English version applies.",
-
   "intro": "Jump, wall-bounce and chain combos to climb an icy tower across 30 frozen worlds. Free to play on iPhone, iPad and Android.",
   "supportH": "Support",
   "supportP": "Questions, bug reports or purchase problems? E-mail us at {email}. Please include your device model and your player name. We usually reply within 2 business days.",
@@ -24,7 +23,6 @@
   "a3": "{settings} → {controls}: {oneHand}, {tilt} or {classic}. In {tilt} mode you can also choose the {sens}.",
   "q4": "How do I delete my data?",
   "a4": "{settings} → {account} → {deleteAccount} / {deleteData}, or see {deleteLink}.",
-
   "privacyH": "Privacy Policy",
   "effective": "Effective date: {date}",
   "pIntro": "This policy explains what information the Frostclimb mobile game (“the app”), published by HeyOggi Games (“we”), collects, why, and the choices you have. It applies to the iOS and Android versions of the app.",
@@ -35,11 +33,12 @@
   "c4": "<b>Game data</b> – progress, levels, stars, coins, scores, settings and purchased items. Used to run the game and sync it between your devices. Your best score and player name are visible to other players on the leaderboard.",
   "c5": "<b>Purchase records</b> – which in-app items you bought, so we can deliver and restore them. Payments are handled entirely by the App Store or Google Play; we never see your card or payment details.",
   "c6": "<b>Advertising and device data</b> – collected by the Google Mobile Ads SDK (AdMob): advertising ID, IP address (from which an approximate location is derived), device and app information, ad interactions, and crash/diagnostic data. Used to show and measure ads and to prevent fraud.",
-  "notCollected": "We do not collect your precise location, contacts, photos, microphone or camera data. In {tilt} mode the app uses the phone’s motion sensor only while you play; this data stays on your device and is never sent anywhere.",
+  "c7": "<b>Usage data (analytics)</b> – game events such as levels started and finished, scores, modes and boosts used and items bought with gold, together with a random app ID (not your advertising ID), device type, operating system and approximate country. Collected with Google Analytics for Firebase to understand how the game is played and to improve it. You can turn this off at any time in {settings} → {analytics}.",
+  "notCollected": "We do not collect your precise location, contacts, photos, microphone or camera data. In {tilt} mode the app uses the phone’s motion sensor only while you play; this data stays on your device and is never sent anywhere. Reminder notifications are scheduled on your device; no data is sent for them, and you can turn them off in {settings} → {notify}.",
   "h2": "2. Advertising",
   "pAds": "The app shows ads from Google AdMob, including optional rewarded ads that you choose to watch. Where required (for example in the EEA, the UK and Switzerland), you are asked for consent through Google’s consent message, and you can change your choice later. On iOS, ads are personalised only if you allow tracking in Apple’s App Tracking Transparency prompt; otherwise non-personalised ads are shown. You can reset or delete your advertising ID in your device settings. If you buy “Remove Ads”, interstitial ads are no longer shown. How Google uses data: {googlePartner}.",
   "h3": "3. Service providers",
-  "pProviders": "Google Firebase (Authentication, Cloud Firestore) stores your game account and cloud save; Google AdMob provides ads; Apple and Google provide sign-in and process in-app purchase payments. We do not sell your personal information and do not share it with anyone else, except where required by law.",
+  "pProviders": "Google Firebase (Authentication, Cloud Firestore) stores your game account and cloud save; Google AdMob provides ads; Apple and Google provide sign-in and process in-app purchase payments. We do not sell your personal information and do not share it with anyone else, except where required by law. Google Analytics for Firebase measures how the game is used (no advertising ID, no ad personalisation).",
   "h4": "4. Data on your device",
   "pDevice": "Your progress and settings are also stored on your device so that the game works offline. Uninstalling the app removes this copy.",
   "h5": "5. How long we keep data",
@@ -56,7 +55,6 @@
   "pChanges": "We may update this policy. The effective date at the top shows the latest version; important changes will also be announced in the app.",
   "h11": "11. Contact",
   "pContact": "HeyOggi Games – e-mail: {email}",
-
   "deleteH": "Delete your Frostclimb account",
   "opt1H": "Option 1 – In the app (instant)",
   "step1": "Open Frostclimb.",

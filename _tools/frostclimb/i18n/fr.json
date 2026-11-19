@@ -1,6 +1,6 @@
 {
   "langName": "Français",
-  "date": "18 novembre 2026",
+  "date": "19 novembre 2026",
   "by": "par HeyOggi Games",
   "language": "Langue",
   "navSupport": "Assistance",
@@ -11,7 +11,6 @@
   "titleDelete": "Frostclimb – Supprimer ton compte",
   "metaDescription": "Frostclimb par HeyOggi Games : assistance, politique de confidentialité et suppression de compte.",
   "translationNote": "Ceci est une traduction. En cas de différence avec la version anglaise, la version anglaise prévaut.",
-
   "intro": "Saute, rebondis sur les murs et enchaîne les combos pour gravir une tour glacée à travers 30 mondes gelés. Gratuit sur iPhone, iPad et Android.",
   "supportH": "Assistance",
   "supportP": "Des questions, un bug à signaler ou un problème d’achat ? Écris-nous à {email}. Indique le modèle de ton appareil et ton nom de joueur. Nous répondons généralement sous 2 jours ouvrés.",
@@ -24,7 +23,6 @@
   "a3": "{settings} → {controls} : {oneHand}, {tilt} ou {classic}. En mode {tilt}, tu peux aussi choisir la {sens}.",
   "q4": "Comment supprimer mes données ?",
   "a4": "{settings} → {account} → {deleteAccount} / {deleteData}, ou consulte {deleteLink}.",
-
   "privacyH": "Politique de confidentialité",
   "effective": "Date d’entrée en vigueur : {date}",
   "pIntro": "Cette politique explique quelles informations le jeu mobile Frostclimb (« l’application »), publié par HeyOggi Games (« nous »), collecte, pourquoi, et quels choix tu as. Elle s’applique aux versions iOS et Android de l’application.",
@@ -35,11 +33,12 @@
   "c4": "<b>Données de jeu</b> – progression, niveaux, étoiles, pièces, scores, paramètres et objets achetés. Elles servent à faire fonctionner le jeu et à le synchroniser entre tes appareils. Ton meilleur score et ton nom de joueur sont visibles par les autres joueurs dans le classement.",
   "c5": "<b>Historique des achats</b> – les objets intégrés que tu as achetés, afin que nous puissions te les livrer et les restaurer. Les paiements sont entièrement gérés par l’App Store ou Google Play ; nous ne voyons jamais les informations de ta carte ni tes données de paiement.",
   "c6": "<b>Données publicitaires et de l’appareil</b> – collectées par le Google Mobile Ads SDK (AdMob) : identifiant publicitaire, adresse IP (à partir de laquelle une localisation approximative est déduite), informations sur l’appareil et l’application, interactions avec les publicités et données de plantage/diagnostic. Elles servent à afficher et mesurer les publicités et à prévenir la fraude.",
-  "notCollected": "Nous ne collectons pas ta localisation précise, tes contacts, tes photos ni les données du micro ou de l’appareil photo. En mode {tilt}, l’application utilise le capteur de mouvement du téléphone uniquement pendant que tu joues ; ces données restent sur ton appareil et ne sont jamais envoyées nulle part.",
+  "c7": "<b>Données d'utilisation (statistiques)</b> – événements de jeu comme les niveaux commencés et terminés, les scores, les modes et bonus utilisés et les objets achetés avec de l'or, accompagnés d'un identifiant d'application aléatoire (pas ton identifiant publicitaire), du type d'appareil, du système d'exploitation et du pays approximatif. Collectées avec Google Analytics for Firebase pour comprendre comment le jeu est utilisé et l'améliorer. Tu peux les désactiver à tout moment dans {settings} → {analytics}.",
+  "notCollected": "Nous ne collectons pas ta localisation précise, tes contacts, tes photos ni les données du micro ou de l’appareil photo. En mode {tilt}, l’application utilise le capteur de mouvement du téléphone uniquement pendant que tu joues ; ces données restent sur ton appareil et ne sont jamais envoyées nulle part. Les rappels sont programmés sur ton appareil ; aucune donnée n'est envoyée pour eux, et tu peux les désactiver dans {settings} → {notify}.",
   "h2": "2. Publicité",
   "pAds": "L’application affiche des publicités de Google AdMob, y compris des publicités récompensées facultatives que tu choisis de regarder. Là où c’est obligatoire (par exemple dans l’EEE, au Royaume-Uni et en Suisse), ton consentement t’est demandé via le message de consentement de Google, et tu peux modifier ton choix plus tard. Sur iOS, les publicités ne sont personnalisées que si tu autorises le suivi dans la demande App Tracking Transparency d’Apple ; sinon, des publicités non personnalisées sont affichées. Tu peux réinitialiser ou supprimer ton identifiant publicitaire dans les réglages de ton appareil. Si tu achètes « Supprimer les pubs », les publicités interstitielles ne sont plus affichées. Comment Google utilise les données : {googlePartner}.",
   "h3": "3. Prestataires de services",
-  "pProviders": "Google Firebase (Authentication, Cloud Firestore) stocke ton compte de jeu et ta sauvegarde cloud ; Google AdMob fournit les publicités ; Apple et Google fournissent la connexion et traitent les paiements des achats intégrés. Nous ne vendons pas tes informations personnelles et ne les partageons avec personne d’autre, sauf lorsque la loi l’exige.",
+  "pProviders": "Google Firebase (Authentication, Cloud Firestore) stocke ton compte de jeu et ta sauvegarde cloud ; Google AdMob fournit les publicités ; Apple et Google fournissent la connexion et traitent les paiements des achats intégrés. Nous ne vendons pas tes informations personnelles et ne les partageons avec personne d’autre, sauf lorsque la loi l’exige. Google Analytics for Firebase mesure l'utilisation du jeu (sans identifiant publicitaire ni personnalisation des annonces).",
   "h4": "4. Données sur ton appareil",
   "pDevice": "Ta progression et tes paramètres sont aussi enregistrés sur ton appareil pour que le jeu fonctionne hors ligne. Désinstaller l’application supprime cette copie.",
   "h5": "5. Durée de conservation des données",
@@ -56,7 +55,6 @@
   "pChanges": "Nous pouvons mettre à jour cette politique. La date d’entrée en vigueur indiquée en haut correspond à la dernière version ; les changements importants seront aussi annoncés dans l’application.",
   "h11": "11. Contact",
   "pContact": "HeyOggi Games – e-mail : {email}",
-
   "deleteH": "Supprimer ton compte Frostclimb",
   "opt1H": "Option 1 – Dans l’application (immédiat)",
   "step1": "Ouvre Frostclimb.",

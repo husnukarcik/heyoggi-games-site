@@ -114,7 +114,7 @@ def page(lang: str, kind: str, t: dict, labels: dict, all_t: dict) -> str:
 {qa}
 </div>"""
     elif kind == 'privacy':
-        items = ''.join(f'<li>{f(f"c{i}")}</li>' for i in range(1, 7))
+        items = ''.join(f'<li>{f(f"c{i}")}</li>' for i in range(1, 8))
         sections = ''.join(
             f'<h3>{html.escape(t[h])}</h3><p>{f(p)}</p>'
             for h, p in (('h2', 'pAds'), ('h3', 'pProviders'), ('h4', 'pDevice'), ('h5', 'pRetention'), ('h6', 'pDelete'),

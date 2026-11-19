@@ -1,6 +1,6 @@
 {
   "langName": "Türkçe",
-  "date": "18 Kasım 2026",
+  "date": "19 Kasım 2026",
   "by": "HeyOggi Games tarafından",
   "language": "Dil",
   "navSupport": "Destek",
@@ -11,7 +11,6 @@
   "titleDelete": "Frostclimb – Hesabını Sil",
   "metaDescription": "HeyOggi Games’in Frostclimb oyunu: destek, gizlilik politikası ve hesap silme.",
   "translationNote": "Bu bir çeviridir. İngilizce sürümle arasında bir fark olursa İngilizce sürüm geçerlidir.",
-
   "intro": "Zıpla, duvarlardan sek ve kombolar zincirle; 30 donmuş dünyada buzlu bir kuleye tırman. iPhone, iPad ve Android’de ücretsiz oynanır.",
   "supportH": "Destek",
   "supportP": "Sorun, hata bildirimin ya da satın alma sorunun mu var? Bize {email} adresinden e-posta gönder. Lütfen cihaz modelini ve oyuncu adını da yaz. Genellikle 2 iş günü içinde yanıt veriyoruz.",
@@ -24,7 +23,6 @@
   "a3": "{settings} → {controls}: {oneHand}, {tilt} ya da {classic}. {tilt} modunda {sens} ayarını da seçebilirsin.",
   "q4": "Verilerimi nasıl silerim?",
   "a4": "{settings} → {account} → {deleteAccount} / {deleteData} ya da {deleteLink} sayfasına bak.",
-
   "privacyH": "Gizlilik Politikası",
   "effective": "Yürürlük tarihi: {date}",
   "pIntro": "Bu politika, HeyOggi Games (“biz”) tarafından yayımlanan Frostclimb mobil oyununun (“uygulama”) hangi bilgileri topladığını, neden topladığını ve senin hangi seçeneklere sahip olduğunu açıklar. Uygulamanın iOS ve Android sürümleri için geçerlidir.",
@@ -35,11 +33,12 @@
   "c4": "<b>Oyun verileri</b> – ilerleme, seviyeler, yıldızlar, altınlar, skorlar, ayarlar ve satın alınan öğeler. Oyunu çalıştırmak ve cihazların arasında eşitlemek için kullanılır. En iyi skorun ve oyuncu adın skor tablosunda diğer oyunculara görünür.",
   "c5": "<b>Satın alma kayıtları</b> – hangi uygulama içi öğeleri satın aldığın; böylece onları sana teslim edebilir ve geri yükleyebiliriz. Ödemeler tamamen App Store ya da Google Play tarafından işlenir; kart veya ödeme bilgilerini asla görmeyiz.",
   "c6": "<b>Reklam ve cihaz verileri</b> – Google Mobile Ads SDK (AdMob) tarafından toplanır: reklam kimliği, IP adresi (buradan yaklaşık bir konum çıkarılır), cihaz ve uygulama bilgileri, reklam etkileşimleri ve çökme/tanılama verileri. Reklamları göstermek ve ölçmek ve dolandırıcılığı önlemek için kullanılır.",
-  "notCollected": "Kesin konumunu, kişilerini, fotoğraflarını, mikrofon veya kamera verilerini toplamayız. {tilt} modunda uygulama, telefonun hareket sensörünü yalnızca sen oynarken kullanır; bu veriler cihazında kalır ve hiçbir yere gönderilmez.",
+  "c7": "<b>Kullanım verileri (analitik)</b> – başlanan ve bitirilen bölümler, puanlar, kullanılan modlar ve güçlendiriciler, altınla alınan ürünler gibi oyun olayları; bunlarla birlikte rastgele bir uygulama kimliği (reklam kimliğin değil), cihaz türü, işletim sistemi ve yaklaşık ülke. Oyunun nasıl oynandığını anlamak ve geliştirmek için Google Analytics for Firebase ile toplanır. İstediğin zaman {settings} → {analytics} ile kapatabilirsin.",
+  "notCollected": "Kesin konumunu, kişilerini, fotoğraflarını, mikrofon veya kamera verilerini toplamayız. {tilt} modunda uygulama, telefonun hareket sensörünü yalnızca sen oynarken kullanır; bu veriler cihazında kalır ve hiçbir yere gönderilmez. Hatırlatma bildirimleri cihazında kurulur; bunlar için hiçbir veri gönderilmez ve {settings} → {notify} ile kapatabilirsin.",
   "h2": "2. Reklamlar",
   "pAds": "Uygulama, izlemeyi kendin seçtiğin isteğe bağlı ödüllü reklamlar dahil, Google AdMob reklamları gösterir. Gerekli olan yerlerde (örneğin AEA, Birleşik Krallık ve İsviçre’de) Google’ın onay mesajıyla senden onay istenir ve seçimini daha sonra değiştirebilirsin. iOS’ta reklamlar yalnızca Apple’ın App Tracking Transparency isteminde izlemeye izin verirsen kişiselleştirilir; aksi halde kişiselleştirilmemiş reklamlar gösterilir. Reklam kimliğini cihaz ayarlarından sıfırlayabilir veya silebilirsin. “Reklamları Kaldır”ı satın alırsan geçiş reklamları artık gösterilmez. Google’ın verileri nasıl kullandığı: {googlePartner}.",
   "h3": "3. Hizmet sağlayıcılar",
-  "pProviders": "Google Firebase (Authentication, Cloud Firestore) oyun hesabını ve bulut kaydını saklar; Google AdMob reklamları sağlar; Apple ve Google girişi sağlar ve uygulama içi satın alma ödemelerini işler. Kişisel bilgilerini satmayız ve kanunen gerekli olan durumlar dışında başka hiç kimseyle paylaşmayız.",
+  "pProviders": "Google Firebase (Authentication, Cloud Firestore) oyun hesabını ve bulut kaydını saklar; Google AdMob reklamları sağlar; Apple ve Google girişi sağlar ve uygulama içi satın alma ödemelerini işler. Kişisel bilgilerini satmayız ve kanunen gerekli olan durumlar dışında başka hiç kimseyle paylaşmayız. Google Analytics for Firebase oyunun nasıl kullanıldığını ölçer (reklam kimliği ve reklam kişiselleştirmesi kullanılmaz).",
   "h4": "4. Cihazındaki veriler",
   "pDevice": "Oyunun çevrimdışı da çalışabilmesi için ilerlemen ve ayarların cihazında da saklanır. Uygulamayı kaldırmak bu kopyayı siler.",
   "h5": "5. Verileri ne kadar süre saklıyoruz",
@@ -56,7 +55,6 @@
   "pChanges": "Bu politikayı güncelleyebiliriz. En üstteki yürürlük tarihi en son sürümü gösterir; önemli değişiklikler ayrıca uygulama içinde duyurulur.",
   "h11": "11. İletişim",
   "pContact": "HeyOggi Games – e-posta: {email}",
-
   "deleteH": "Frostclimb hesabını sil",
   "opt1H": "1. seçenek – Uygulama içinden (anında)",
   "step1": "Frostclimb’ı aç.",
